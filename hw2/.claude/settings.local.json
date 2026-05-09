@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(py -3 -m pip show scikit-learn)",
+      "Bash(py -3 -m pip list)"
+    ]
+  }
+}
